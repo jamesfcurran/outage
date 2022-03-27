@@ -17,19 +17,19 @@
 		}
 	],
 	"ert": [{
-		"transformer_id": 21,
+		"id": 21,
 		"ERT": 120,
 		"hours": 2,
 		"minutes": 0
 	        },
 		{
-		"transformer_id": 22,
+		"id": 22,
 		"ERT": 0,
 		"hours": 0,
 		"minutes": 0
 	        },
 		{
-		"transformer_id": 23,
+		"id": 23,
 		"ERT": 60,
 		"hours": 1,
 		"minutes": 0
